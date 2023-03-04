@@ -2,11 +2,9 @@
 
 ### Screenshots
 
-<img src="https://user-images.githubusercontent.com/66557474/222927632-5bed6a24-eb51-46ed-bf4b-043ff4c0184a.jpeg" width="30%" height="10%">
-<img src="https://user-images.githubusercontent.com/66557474/222927636-76527f56-a92e-44a6-a13a-f8a166ffb908.jpeg" width="30%" height="10%">
+<img src="https://user-images.githubusercontent.com/66557474/222927632-5bed6a24-eb51-46ed-bf4b-043ff4c0184a.jpeg" width="30%" height="10%"> <img src="https://user-images.githubusercontent.com/66557474/222927636-76527f56-a92e-44a6-a13a-f8a166ffb908.jpeg" width="30%" height="10%">
 
-<img src="https://user-images.githubusercontent.com/66557474/222927637-8404a17c-5dd1-497f-9f63-73b6eba2f409.jpeg" width="30%" height="10%">
-<img src="https://user-images.githubusercontent.com/66557474/222927638-b1688243-fa3a-4e63-b51a-7a39979b851d.jpeg" width="30%" height="10%">
+<img src="https://user-images.githubusercontent.com/66557474/222927637-8404a17c-5dd1-497f-9f63-73b6eba2f409.jpeg" width="30%" height="10%"> <img src="https://user-images.githubusercontent.com/66557474/222927638-b1688243-fa3a-4e63-b51a-7a39979b851d.jpeg" width="30%" height="10%">
 
 ### How to run this awesome app on your native device
 
